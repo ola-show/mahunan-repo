@@ -1,0 +1,14 @@
+
+  color: 
+	#40514E;
+  	#66BFBF;
+	#66BFBF;
+	#11999E;
+	#EAF6F6;
+	#11999E;
+
+  font-family: 'Sacramento', cursive;
+  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
+
+
